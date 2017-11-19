@@ -1,6 +1,11 @@
 # nodejs-express-vue-mysql-demo
 nodejs-express-vue-mysql 整合的一个CRUDdemo
-
+## 启动服务
+```
+service 目录下 执行
+    node app.js
+    [监听端口：3000]
+```
 > A Vue.js project
 
 ## Build Setup
